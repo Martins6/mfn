@@ -10,7 +10,6 @@ readme = "README.md"
 classifiers = [ 
   "Development Status :: 3 - Alpha",
   "Intended Audience :: Developers",
-  "Topic :: Machine Learning :: Time Series :: Entropy :: Complexity",
   "License :: OSI Approved :: MIT License",
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3.8",
