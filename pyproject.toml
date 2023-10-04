@@ -3,6 +3,8 @@ name = "mfn"
 version = "0.1.0"
 description = "Implementation in Python of the MFN method to measure complexity & entropy of time series."
 authors = ["Adriel Martins <am.adriel.martins@gmail.com>"]
+homepage = "https://github.com/Martins6/mfn"
+repository = "https://github.com/Martins6/mfn"
 license = "MIT"
 readme = "README.md"
 classifiers = [ 
@@ -19,10 +21,9 @@ classifiers = [
   "Programming Language :: Python :: 3 :: Only",
 ]
 
-[project.urls] 
-"Homepage" = "https://github.com/Martins6/mfn"
+[tool.poetry.urls] 
 "Paper" = "https://www.sciencedirect.com/science/article/pii/S0960077923001613"
-"Source" = "https://github.com/Martins6/mfn"
+
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.13"
